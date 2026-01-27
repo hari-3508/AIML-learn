@@ -27,4 +27,4 @@ print("\nModel accuracy:", accuracy)
 
 joblib.dump(model, "diabetes.pkl")
 
-print("\nModel successfully saved as diabetes.pkl")
+print("\nModel successfully saved diabetes.pkl")
